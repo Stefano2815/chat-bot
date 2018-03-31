@@ -1,0 +1,23 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "homework",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^1.0.0",
+    "node": "^9.10.0",
+    "omdb": "^0.8.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1",
+    "web": "0.0.2"
+  }
+}
