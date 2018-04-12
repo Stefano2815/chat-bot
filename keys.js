@@ -16,6 +16,8 @@ var spotify = {
 }
 
 module.exports = {
-  twitter, spotify
+  twitter, spotify, omdb
 
 }
+
+var omdb = process.env.OMDB_KEY
